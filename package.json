@@ -1,0 +1,18 @@
+{
+  "name": "cicd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "author": "skaramje@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "jest": "^27.5.1",
+    "request": "^2.88.2",
+    "supertest": "^6.2.2"
+  }
+}
